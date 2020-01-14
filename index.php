@@ -6,6 +6,7 @@
     <title>FDHoho007</title>
     <meta charset="UTF-8">
     <meta name="author" content="Fabian Dietrich">
+	<meta name="description" content="Programmierer aus Leidenschaft.">
 
     <style>
 
@@ -159,9 +160,10 @@
             <a target="_blank" title="@FDHoho007" href="https://www.instagram.com/fdhoho007"><img alt="Instagram" src="instagram.png"> @FDHoho007</a><br>
             <br>
             <b>Meine Projekte</b><br>
-            <a target="_blank" title="FDServer.de" href="https://fdserver.de/"><img alt="FDServer" src="https://media.fdserver.de/img/logo.png"> FDServer.de</a><br>
+            <a target="_blank" title="MyFDWeb" href="https://myfdweb.de/"><img alt="MyFDWeb" src="https://myfdweb.de/logo.png"> MyFDWeb</a><br>
+			<a target="_blank" title="FDServer.de" href="https://fdserver.de/"><img alt="FDServer" src="https://media.fdserver.de/img/logo.png"> FDServer.de</a><br>
             <br>
-            <a onclick="showImprint();">Impressum</a> | <a href="mailto:fdhoho007@fdserver.de">Kontakt</a>
+            <a onclick="showImprint();">Impressum</a> | <a href="mailto:info@fdhoho007.de">Kontakt</a>
         </div>
 
     </div>
@@ -181,7 +183,7 @@
             82194 Gröbenzell<br>
             Deutschland<br>
             <br>
-            E-Mail: <a href="mailto:info@fdserver.de">info@fdserver.de</a><br>
+            E-Mail: <a href="mailto:info@fdserver.de">info@fdhoho007.de</a><br>
             <h3>Haftung für Inhalte</h3>
             Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.<br>
             Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.<br>
