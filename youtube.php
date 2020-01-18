@@ -1,0 +1,1 @@
+<?php header("Location: https://www.youtube.com/channel/UC7O5f23ioRjWoVuNE08T5kQ"); ?>
