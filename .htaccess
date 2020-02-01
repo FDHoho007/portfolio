@@ -1,3 +1,5 @@
+AuthType None
+
 RewriteEngine on
 RewriteRule ^(yt|youtube)$ /youtube.php
 RewriteRule ^(tweet|twitter)$ /twitter.php
