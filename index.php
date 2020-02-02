@@ -7,6 +7,7 @@
     <meta charset="UTF-8">
     <meta name="author" content="Fabian Dietrich">
 	<meta name="description" content="Programmierer aus Leidenschaft.">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <style>
 
@@ -35,7 +36,7 @@
             }
             #container {
                 width: 80%;
-                font-size: 16pt;
+                font-size: 10pt;
             }
         }
 
@@ -153,7 +154,7 @@
             Programmierer aus Leidenschaft.<br>
             <br>
             <b>Social Media</b><br>
-            <a target="_blank" title="Fabian Dietrich" href="https://www.youtube.com/channel/UC7O5f23ioRjWoVuNE08T5kQ"><img alt="YouTube" src="youtube.png"> Fabian Dietrich</a><br>
+            <a target="_blank" title="FDHoho007" href="https://www.youtube.com/channel/UCA07UFyCw6uxf-pM5V7OuUQ"><img alt="YouTube" src="youtube.png"> FDHoho007</a><br>
             <a target="_blank" title="FDHoho007#5466" href="https://discordapp.com/channels/@me"><img alt="Discord" src="discord.png"> FDHoho007#5466</a><br>
             <a target="_blank" title="FDHoho007" href="https://github.com/fdhoho007"><img alt="GitHub" src="github.png"> FDHoho007</a><br>
             <a target="_blank" title="@FDHoho007" href="https://twitter.com/fdhoho007"><img alt="Twitter" src="twitter.png"> @FDHoho007</a><br>
