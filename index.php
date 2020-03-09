@@ -142,7 +142,7 @@
     <div id="container">
 
         <div id="col-left">
-            <img alt="FDHoho007" src="https://media.fdserver.de/img/logo.png"><br>
+            <img alt="FDHoho007" src="https://myfdweb.de/logo.png"><br>
             <br>
             Fabian Dietrich<br>
             Alter: <?php echo(date("Y", time()-strtotime("18.07.2002"))-1970); ?> Jahre<br>
@@ -162,7 +162,7 @@
             <br>
             <b>Meine Projekte</b><br>
             <a target="_blank" title="MyFDWeb" href="https://myfdweb.de/"><img alt="MyFDWeb" src="https://myfdweb.de/logo.png"> MyFDWeb</a><br>
-			<a target="_blank" title="FDServer.de" href="https://fdserver.de/"><img alt="FDServer" src="https://media.fdserver.de/img/logo.png"> FDServer.de</a><br>
+			<a target="_blank" title="FDServer.de" href="https://fdserver.de/"><img alt="FDServer" src="https://myfdweb.de/logo.png"> FDServer.de</a><br>
             <br>
             <a onclick="showImprint();">Impressum</a> | <a href="mailto:info@fdhoho007.de">Kontakt</a>
         </div>
