@@ -30,7 +30,7 @@
             padding: 20px;
         }
 
-        @media screen and (max-device-width: 480px) {
+        @media screen and (max-width: 480px) {
             body {
                 font-family: "Courier New", cursive;
             }
