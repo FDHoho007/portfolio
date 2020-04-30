@@ -28,6 +28,7 @@
             margin: 100px auto auto;
             width: 40%;
             padding: 20px;
+			box-shadow: #5b9aff 0px 0px 20px 20px;
         }
 
         @media screen and (max-device-width: 480px) {
